@@ -14,4 +14,4 @@ const HolaMundo = () => `
         }
     </style>
 `
-export default HolaMundo;
+export default HolaMundo
